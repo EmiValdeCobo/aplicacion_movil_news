@@ -1,16 +1,31 @@
-# news_apps
+# News Apps
 
-A new Flutter project.
+Un nuevo proyecto desarrollado con Flutter.
 
-## Getting Started
+## ¿Qué es este proyecto?
 
-This project is a starting point for a Flutter application.
+`news_apps` es una aplicación que sirve como punto de partida para el desarrollo de aplicaciones móviles con Flutter. Este proyecto puede ser personalizado y ampliado para satisfacer tus necesidades específicas.
 
-A few resources to get you started if this is your first Flutter project:
+## Ejecución del proyecto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clona este repositorio en tu equipo:
+   ```bash
+   git clone https://github.com/tu-usuario/news_apps.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navega al directorio del proyecto:
+   ```bash
+   cd news_apps
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+
+4. Inicia la aplicación en tu dispositivo o emulador:
+   ```bash
+   flutter run
+   ```
+
+
